@@ -1,4 +1,4 @@
-# Temperature Control System
+# TempSync Automatic Fan
 
 This Arduino project controls a fan based on the temperature read from an LM35 temperature sensor. It also displays the temperature and fan speed on an LCD.
 
